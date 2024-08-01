@@ -2,6 +2,7 @@ body {
     text-align: center;
     background-image: url(./images/back2.webp);
     object-fit: contain;
+    background-repeat: no-repeat;
 }
 
 h1 {
